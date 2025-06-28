@@ -1,0 +1,7 @@
+__pycache__/
+logs/
+.idx
+.venv/
+.vscode/
+api_key.pem
+api_secret.pem
